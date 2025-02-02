@@ -11,4 +11,5 @@ This provides utility functions for geolocation conversions, including:
 
 5. Opening locations in Google Maps
 
+![location_display_3d_global](location_display_3d_global.png)
 
